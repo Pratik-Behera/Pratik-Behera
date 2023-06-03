@@ -7,7 +7,7 @@ An engineer who loves researching and playing with Cutting-Edge Technologies .
 </h4>
 <h4 align="center">Hands-On Experience in Artificial Intelligence, Internet Of Things, Blockchain, Security, Cloud, System Architecture, Frontend, Backend,  </h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="NisaarAgharia" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pratik-Behera&label=Profile%20views&color=brightgreen&style=flat" alt="Pratik-Behera" /> </p>
 <p align="center">
 <img height="270" width="480" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> </a>
 </p>
