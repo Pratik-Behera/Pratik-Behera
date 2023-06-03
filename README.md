@@ -7,10 +7,20 @@ An engineer who loves researching and playing with Cutting-Edge Technologies .
 </h4>
 <h4 align="center">Hands-On Experience in Artificial Intelligence, Internet Of Things, Blockchain, Security, Cloud, System Architecture, Frontend, Backend,  </h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pratik-Behera&label=Profile%20views&color=brightgreen&style=flat" alt="Pratik-Behera" /> </p>
-<p align="center">
-<img height="270" width="480" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> </a>
-</p>
+## Skills
+<div style="display: inline_block"><br>
+  <img height="40" align="center" alt="Pratik-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Pratik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Pratik-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Pratik-Mssql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+</div>
+  
+</br>
 
 
 <hr>
