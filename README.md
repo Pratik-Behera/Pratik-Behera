@@ -1,6 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         height="45"
-         width="45" />, I'm Pratik</h1> 
+<h1 align="center">Hello, I'm Pratik</h1> 
 <h4 align="center">
  A highly driven Software Engineer who is passionate about getting hands-on experience with new Cutting Edge Technologies. Deeply interested in the field of AI and its potential impact on the future. Interested in contributing to the Open Source Community through active participation and engagement.
  </h4>
